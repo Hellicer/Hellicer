@@ -2,12 +2,14 @@
  | ⚡ Next.js | 🎨 Tailwind CS
 
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
-<h3 align="center">💻 Frontend Developer frontend developer from Ukraine</h3>
+<h2 align="center">💻 Frontend Developer frontend developer from Ukraine</h3>
 <p><img align="center" src="https://wakatime.com/badge/user/49497165-abb7-4d96-b4fb-c3039612d6df.svg" alt="hellicer" /></p>
+
+<h3 align="left">Stats from my first account:</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hellicer" alt="hellicer" /></a> </p>
 
-<h4 align="left">Stats from my second account:</h4>
+<h3 align="left">Stats from my second account:</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morrisonsjohn96" alt="morrisonsjohn96" /></a> </p>
 
