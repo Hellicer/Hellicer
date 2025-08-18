@@ -60,7 +60,7 @@
 </div>
 
 ### ⚛️ React Ecosystem
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td align="center" width="120">
@@ -92,7 +92,7 @@
 </div>
 
 ### 🎨 CSS Frameworks & UI
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td align="center" width="120">
@@ -112,7 +112,7 @@
 </div>
 
 ### 🖥️ Backend & Languages
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td align="center" width="120">
@@ -138,7 +138,7 @@
 </div>
 
 ### 🗄️ Databases
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td align="center" width="120">
@@ -158,7 +158,7 @@
 </div>
 
 ### 📊 Data Visualization
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td align="center" width="120">
@@ -178,7 +178,7 @@
 </div>
 
 ### 🛠️ Development Tools
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td align="center" width="120">
@@ -210,7 +210,7 @@
 </div>
 
 ### 🖥️ Systems & Design
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td align="center" width="120">
