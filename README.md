@@ -292,6 +292,46 @@
 - ⚡ Fun fact: I love experimenting with new CSS animations
 
 ---
+ Chess Stats (Lichess)
+<div align="center">
+  <a href="https://lichess.org/@/Hellicer">
+    <img src="https://lichess-shield.vercel.app/api?username=Hellicer&theme=dark" alt="Lichess Stats" />
+  </a>
+</div>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="150">
+  <a href="https://lichess.org/@/Hellicer/perf/bullet">
+    <img src="https://img.shields.io/badge/🔸_Bullet-1500+-ff6b6b?style=for-the-badge&logoColor=white" alt="Bullet Rating" />
+  </a>
+  <br><strong>⚡ Bullet</strong>
+</td>
+<td align="center" width="150">
+  <a href="https://lichess.org/@/Hellicer/perf/blitz">
+    <img src="https://img.shields.io/badge/🔹_Blitz-1500+-4ecdc4?style=for-the-badge&logoColor=white" alt="Blitz Rating" />
+  </a>
+  <br><strong>⚡ Blitz</strong>
+</td>
+<td align="center" width="150">
+  <a href="https://lichess.org/@/Hellicer/perf/rapid">
+    <img src="https://img.shields.io/badge/🔶_Rapid-1500+-45b7d1?style=for-the-badge&logoColor=white" alt="Rapid Rating" />
+  </a>
+  <br><strong>⚡ Rapid</strong>
+</td>
+<td align="center" width="150">
+  <a href="https://lichess.org/@/Hellicer/perf/puzzle">
+    <img src="https://img.shields.io/badge/🧩_Puzzles-1500+-f9ca24?style=for-the-badge&logoColor=white" alt="Puzzle Rating" />
+  </a>
+  <br><strong>🧩 Puzzles</strong>
+</td>
+</tr>
+</table>
+</div>
+<div align="center">
+  <p><em>🏆 "Chess is the gymnasium of the mind." – Blaise Pascal</em></p>
+</div>
+
 
 ## 📫 How to reach me
 
