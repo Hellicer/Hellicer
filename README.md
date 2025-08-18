@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ruslan!
+**# 👋 Hi there, I'm Ruslan!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer;From+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Next.js+%26+React+Enthusiast;Always+Learning!" alt="Typing SVG" />
@@ -265,3 +265,4 @@
   
   *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 </div>
+**
