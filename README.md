@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
 <h3 align="center">💻 Frontend Developer frontend developer from Ukraine</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hellicer&label=Profile%20views&color=0e75b6&style=flat" alt="hellicer" /> </p>
+<p><img align="center" src="https://wakatime.com/badge/user/49497165-abb7-4d96-b4fb-c3039612d6df.svg" alt="hellicer" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hellicer" alt="hellicer" /></a> </p>
 
@@ -19,6 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellicer&show_icons=true&locale=en" alt="hellicer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellicer&" alt="hellicer" /></p>
-<p><img align="center" src="https://wakatime.com/badge/user/49497165-abb7-4d96-b4fb-c3039612d6df.svg" alt="hellicer" /></p>
 
 
