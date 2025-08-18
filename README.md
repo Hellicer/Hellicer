@@ -193,13 +193,24 @@
 
 ## 📊 GitHub статистика
 
+### 🎯 Основний акаунт (hellicer)
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hellicer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hellicer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hellicer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats - hellicer" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hellicer&theme=tokyonight&hide_border=true" alt="GitHub Streak - hellicer" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellicer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellicer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages - hellicer" />
+</div>
+
+### 🔥 Другий акаунт (morrisonsjohn96)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=morrisonsjohn96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats - morrisonsjohn96" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=morrisonsjohn96&theme=tokyonight&hide_border=true" alt="GitHub Streak - morrisonsjohn96" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morrisonsjohn96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages - morrisonsjohn96" />
 </div>
 
 ---
@@ -220,8 +231,14 @@
 
 ## 📈 Activity Graph
 
+### 🌟 Основний акаунт (hellicer)
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hellicer&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hellicer&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph - hellicer" />
+</div>
+
+### ⚡ Другий акаунт (morrisonsjohn96)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=morrisonsjohn96&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph - morrisonsjohn96" />
 </div>
 
 ---
@@ -240,7 +257,8 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hellicer)
+[![GitHub - hellicer](https://img.shields.io/badge/GitHub_hellicer-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hellicer)
+[![GitHub - morrisonsjohn96](https://img.shields.io/badge/GitHub_morrisonsjohn96-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morrisonsjohn96)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
