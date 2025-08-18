@@ -195,7 +195,6 @@
 
 ### 🎯 Основний акаунт (hellicer)
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hellicer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats - hellicer" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hellicer&theme=tokyonight&hide_border=true" alt="GitHub Streak - hellicer" />
 </div>
 
@@ -205,13 +204,9 @@
 
 ### 🔥 Другий акаунт (morrisonsjohn96)
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=morrisonsjohn96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats - morrisonsjohn96" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=morrisonsjohn96&theme=tokyonight&hide_border=true" alt="GitHub Streak - morrisonsjohn96" />
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morrisonsjohn96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages - morrisonsjohn96" />
-</div>
 
 ---
 
