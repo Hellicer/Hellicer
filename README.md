@@ -14,6 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morrisonsjohn96&show_icons=true&locale=en&layout=compact" alt="morrisonsjohn96" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morrisonsjohn96&show_icons=true&locale=en" alt="morrisonsjohn96" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morrisonsjohn96&" alt="morrisonsjohn96" /></p>
