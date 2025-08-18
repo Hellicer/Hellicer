@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/github-profile-views-counter?username=hellicer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://wakatime.com/badge/user/49497165-abb7-4d96-b4fb-c3039612d6df.svg" alt="WakaTime stats" />
 </div>
 
