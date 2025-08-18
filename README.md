@@ -1,10 +1,11 @@
-**# 👋 Hi there, I'm Ruslan!
+# 👋 Hi there, I'm Ruslan!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer;From+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Next.js+%26+React+Enthusiast;Always+Learning!" alt="Typing SVG" />
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/github-profile-views-counter?username=hellicer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://wakatime.com/badge/user/49497165-abb7-4d96-b4fb-c3039612d6df.svg" alt="WakaTime stats" />
 </div>
 
@@ -21,41 +22,9 @@
 
 ## 🛠️ Technologies & Tools
 
+### 💻 Frontend Technologies
 <div align="center">
-  
 <table>
-<tr>
-<td align="center" width="120">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-  </a>
-  <br>JavaScript
-</td>
-<td align="center" width="120">
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-  </a>
-  <br>TypeScript
-</td>
-<td align="center" width="120">
-  <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-  </a>
-  <br>React
-</td>
-<td align="center" width="120">
-  <a href="https://nextjs.org/">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
-  </a>
-  <br>Next.js
-</td>
-<td align="center" width="120">
-  <a href="https://tailwindcss.com/">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
-  </a>
-  <br>Tailwind CSS
-</td>
-</tr>
 <tr>
 <td align="center" width="120">
   <a href="https://www.w3.org/html/">
@@ -70,10 +39,42 @@
   <br>CSS3
 </td>
 <td align="center" width="120">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+  </a>
+  <br>JavaScript
+</td>
+<td align="center" width="120">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+  </a>
+  <br>TypeScript
+</td>
+<td align="center" width="120">
   <a href="https://sass-lang.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
   </a>
   <br>Sass
+</td>
+</tr>
+</table>
+</div>
+
+### ⚛️ React Ecosystem
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+  <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+  </a>
+  <br>React
+</td>
+<td align="center" width="120">
+  <a href="https://nextjs.org/">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
+  </a>
+  <br>Next.js
 </td>
 <td align="center" width="120">
   <a href="https://redux.js.org">
@@ -88,6 +89,32 @@
   <br>React Native
 </td>
 </tr>
+</table>
+</div>
+
+### 🎨 CSS Frameworks & UI
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+  <a href="https://tailwindcss.com/">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
+  </a>
+  <br>Tailwind CSS
+</td>
+<td align="center" width="120">
+  <a href="https://getbootstrap.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
+  </a>
+  <br>Bootstrap
+</td>
+</tr>
+</table>
+</div>
+
+### 🖥️ Backend & Languages
+<div align="center">
+<table>
 <tr>
 <td align="center" width="120">
   <a href="https://nodejs.org">
@@ -107,6 +134,14 @@
   </a>
   <br>Kotlin
 </td>
+</tr>
+</table>
+</div>
+
+### 🗄️ Databases
+<div align="center">
+<table>
+<tr>
 <td align="center" width="120">
   <a href="https://www.mysql.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
@@ -120,45 +155,13 @@
   <br>SQLite
 </td>
 </tr>
+</table>
+</div>
+
+### 📊 Data Visualization
+<div align="center">
+<table>
 <tr>
-<td align="center" width="120">
-  <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-  </a>
-  <br>Git
-</td>
-<td align="center" width="120">
-  <a href="https://www.figma.com/">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
-  </a>
-  <br>Figma
-</td>
-<td align="center" width="120">
-  <a href="https://webpack.js.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" width="48" height="48" alt="Webpack" />
-  </a>
-  <br>Webpack
-</td>
-<td align="center" width="120">
-  <a href="https://postman.com">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-  </a>
-  <br>Postman
-</td>
-<td align="center" width="120">
-  <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-  </a>
-  <br>Linux
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-  <a href="https://getbootstrap.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
-  </a>
-  <br>Bootstrap
-</td>
 <td align="center" width="120">
   <a href="https://www.chartjs.org">
     <img src="https://www.chartjs.org/media/logo-title.svg" width="48" height="48" alt="Chart.js" />
@@ -171,11 +174,57 @@
   </a>
   <br>CanvasJS
 </td>
+</tr>
+</table>
+</div>
+
+### 🛠️ Development Tools
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+  </a>
+  <br>Git
+</td>
+<td align="center" width="120">
+  <a href="https://webpack.js.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" width="48" height="48" alt="Webpack" />
+  </a>
+  <br>Webpack
+</td>
 <td align="center" width="120">
   <a href="https://babeljs.io/">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="48" height="48" alt="Babel" />
   </a>
   <br>Babel
+</td>
+<td align="center" width="120">
+  <a href="https://postman.com">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+  </a>
+  <br>Postman
+</td>
+</tr>
+</table>
+</div>
+
+### 🖥️ Systems & Design
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+  </a>
+  <br>Linux
+</td>
+<td align="center" width="120">
+  <a href="https://www.figma.com/">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
+  </a>
+  <br>Figma
 </td>
 <td align="center" width="120">
   <a href="https://www.photoshop.com/en">
@@ -185,7 +234,6 @@
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -265,4 +313,3 @@
   
   *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 </div>
-**
