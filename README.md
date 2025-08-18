@@ -292,12 +292,9 @@
 - ⚡ Fun fact: I love experimenting with new CSS animations
 
 ---
-My Hobby Chess Stats (Lichess)
+My Hobbies: Chess Stats (Lichess)
 <div align="center">
-  <a href="https://lichess.org/@/Hellicer">
-    <img src="https://lichess-shield.vercel.app/api?username=Hellicer&theme=dark" alt="Lichess Stats" />
-  </a>
-</div>
+
 <div align="center">
 <table>
 <tr>
@@ -327,6 +324,10 @@ My Hobby Chess Stats (Lichess)
 </td>
 </tr>
 </table>
+</div>
+  <a href="https://lichess.org/@/Hellicer">
+    <img src="https://lichess-shield.vercel.app/api?username=Hellicer&theme=dark" alt="Lichess Stats" />
+  </a>
 </div>
 <div align="center">
   <p><em>🏆 "Chess is the gymnasium of the mind." – Blaise Pascal</em></p>
