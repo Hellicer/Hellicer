@@ -17,14 +17,14 @@
 
 ---
 
-⏰ WakaTime Coding Activity
-<div align="center">
-  <img src="https://wakatime.com/share/@49497165-abb7-4d96-b4fb-c3039612d6df/4a23c2b7-3d6f-4e4b-9c2b-8c8f9d5a6b0c.svg" alt="WakaTime Languages" width="600" />
-</div>
-<div align="center">
+## ⏰ WakaTime Coding Activity
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hellicer&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats" width="500" />
 </div>
+
 ---
+
 ## 🛠️ Technologies & Tools
 
 ### 💻 Frontend Technologies
