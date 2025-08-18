@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hellicer" alt="hellicer" /></a> </p>
 
-<h4 align="center">Stats from my second account:</h4>
+<h4 align="left">Stats from my second account:</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morrisonsjohn96" alt="morrisonsjohn96" /></a> </p>
 
