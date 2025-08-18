@@ -1,4 +1,4 @@
-# 👋 Привіт, я Руслан!
+# 👋 Hi there, I'm Ruslan!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer;From+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Next.js+%26+React+Enthusiast;Always+Learning!" alt="Typing SVG" />
@@ -11,16 +11,16 @@
 
 ---
 
-## 🚀 Про мене
+## 🚀 About Me
 
-💻 **Frontend Developer** з України, захоплений створенням красивих та функціональних веб-додатків  
-🎯 Спеціалізуюся на **Next.js**, **React** та **Tailwind CSS**  
-🌟 Люблю чистий код та сучасні технології  
-📚 Постійно вивчаю нові інструменти та покращую свої навички  
+💻 **Frontend Developer** from Ukraine, passionate about creating beautiful and functional web applications  
+🎯 Specializing in **Next.js**, **React** and **Tailwind CSS**  
+🌟 Love clean code and modern technologies  
+📚 Constantly learning new tools and improving my skills  
 
 ---
 
-## 🛠️ Технології та інструменти
+## 🛠️ Technologies & Tools
 
 <div align="center">
   
@@ -191,9 +191,9 @@
 
 ---
 
-## 📊 GitHub статистика
+## 📊 GitHub Statistics
 
-### 🎯 Основний акаунт (hellicer)
+### 🎯 Main Account (hellicer)
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hellicer&theme=tokyonight&hide_border=true" alt="GitHub Streak - hellicer" />
 </div>
@@ -202,22 +202,21 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellicer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages - hellicer" />
 </div>
 
-### 🔥 Другий акаунт (morrisonsjohn96)
+### 🔥 Second Account (morrisonsjohn96)
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=morrisonsjohn96&theme=tokyonight&hide_border=true" alt="GitHub Streak - morrisonsjohn96" />
 </div>
 
-
 ---
 
-## 🏆 GitHub досягнення
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-### Основний акаунт (hellicer)
+### Main Account (hellicer)
 <img src="https://github-profile-trophy.vercel.app/?username=hellicer&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies - hellicer" />
 
-### Другий акаунт (morrisonsjohn96)
+### Second Account (morrisonsjohn96)
 <img src="https://github-profile-trophy.vercel.app/?username=morrisonsjohn96&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies - morrisonsjohn96" />
 
 </div>
@@ -226,29 +225,29 @@
 
 ## 📈 Activity Graph
 
-### 🌟 Основний акаунт (hellicer)
+### 🌟 Main Account (hellicer)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hellicer&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph - hellicer" />
 </div>
 
-### ⚡ Другий акаунт (morrisonsjohn96)
+### ⚡ Second Account (morrisonsjohn96)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=morrisonsjohn96&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph - morrisonsjohn96" />
 </div>
 
 ---
 
-## 🎯 Поточні цілі
+## 🎯 Current Goals
 
-- 🔭 Працюю над покращенням своїх навичок у **Next.js 14** та **App Router**
-- 🌱 Вивчаю **Three.js** для 3D веб-додатків
-- 👯 Шукаю можливості для співпраці над цікавими проектами
-- 💬 Запитайте мене про **React**, **Next.js**, **Tailwind CSS**
-- ⚡ Цікавий факт: Люблю експериментувати з новими CSS анімаціями
+- 🔭 I'm currently working on improving my skills in **Next.js 14** and **App Router**
+- 🌱 I'm learning **Three.js** for 3D web applications
+- 👯 I'm looking to collaborate on interesting projects
+- 💬 Ask me about **React**, **Next.js**, **Tailwind CSS**
+- ⚡ Fun fact: I love experimenting with new CSS animations
 
 ---
 
-## 📫 Як зі мною зв'язатися
+## 📫 How to reach me
 
 <div align="center">
 
@@ -263,7 +262,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer" />
   
-  **Дякую за відвідування мого профілю! 🚀**
+  **Thanks for visiting my profile! 🚀**
   
   *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 </div>
