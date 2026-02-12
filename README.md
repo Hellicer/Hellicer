@@ -20,7 +20,7 @@
 ## ⏰ WakaTime Coding Activity
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hellicer&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats" width="500" />
+  <img src="https://wakatime.com/badge/user/49497165-abb7-4d96-b4fb-c3039612d6df.svg" alt="WakaTime Stats" width="500" />
 </div>
 
 ---
