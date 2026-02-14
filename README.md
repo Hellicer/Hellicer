@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Ruslan! <div align="left">
-  <img src="https://wakatime.com/badge/user/49497165-abb7-4d96-b4fb-c3039612d6df.svg" alt="WakaTime Stats" width="500" />
-</div>
+# 👋 Hi there, I'm Ruslan!   <img src="https://wakatime.com/badge/user/49497165-abb7-4d96-b4fb-c3039612d6df.svg" alt="WakaTime Stats" width="500" />
 
 
 <div align="center">
