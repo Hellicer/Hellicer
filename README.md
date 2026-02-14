@@ -17,12 +17,6 @@
 
 ---
 
-## ⏰ WakaTime Coding Activity
-
-
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### 💻 Frontend Technologies
